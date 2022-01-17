@@ -17,8 +17,7 @@ body {
 }
 
 main{
-    /* background: url('/src/imagens/background.svg'); */
-    background-image: url('/src/imagens/background.svg');
+    background-image: url('./src/imagens/background.svg');
     max-width: 375px;
     height: 812px;
     margin: 0 auto;
