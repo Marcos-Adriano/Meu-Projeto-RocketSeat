@@ -13,11 +13,14 @@ html, body {
 body {
     display: grid;
     place-items: center;
-    background-color: var(--black)
+    background-color: var(--black);
+    justify-content: center;
 }
 
 main{
     background: url('../imagens/background.svg');
+    background-position: center;
+    position: relative;
     max-width: 375px;
     height: 812px;
     margin: 0 auto;
@@ -80,7 +83,7 @@ p {
 ul {
     display: flex;
     flex-wrap: wrap;
-    margin-top: 4rem;
+    margin: 4rem 1rem 1rem 1rem;
 
     list-style: none;
     padding: 0;
