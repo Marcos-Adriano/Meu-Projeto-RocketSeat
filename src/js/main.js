@@ -3,7 +3,7 @@ const LinksSocialMedia = {
     youtube : "channel/UCIlq6eea1yv6YBoWD-zJKDw",
     facebook : "marcosdevgoncalves",
     instagram : 'marcosdevgoncalves',
-    twitter : "jakelinytec"
+    twitter : "MarcosADeVG97"
 }
 
 function changeSocialMediaLinks() {
